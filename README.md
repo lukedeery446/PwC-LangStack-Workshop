@@ -14,6 +14,6 @@ We were really happy with the numbers. It's unfortunate how many issues popped u
 - It will be there somewhere but Google doesn't like to promote it easily
 - Ask ChatGPT on how to get it
 - You will have to redefine some of the imports so:
-  `from langchain_google_genai import ChatGoogleGenerativeAI
-  llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash")`
+  `"from langchain_google_genai import ChatGoogleGenerativeAI" and
+  "llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash")"`
 - Drawback is that this model is a little weaker and might fail on some of the more complex tasks, suprisngly good in my experience though (for being free)
