@@ -2,9 +2,11 @@ Thank you to those who attended and/or signed up,
 Team:
 We were really happy with the numbers. It's unfortunate how many issues popped up during setup. Also, from our side, some sections definitely could've been shortened.
 
+08/03/2026
 ## LANGGRAPH ANSWERS RELEASED
 - View the LangGraph_With_Exercises.ipynb
 
+27/02/2026
 ## Kevin (LangGraph)
 - The live coding sections overran terribly - sorry about that!
 - **A corrected, completed LangGraph notebook** should be in this repo: **"LangGraph_Student_Version.ipynb"** has been updated
